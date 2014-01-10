@@ -1,4 +1,4 @@
-SelectComboBox
+JKComboBox
 ==============
 
-IOS SelectComboBox 类似html网页中的select控件
+iOS JKComboBox 类似html网页中的select控件
